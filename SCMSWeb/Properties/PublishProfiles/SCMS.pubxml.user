@@ -1,0 +1,319 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\inetpub\wwwroot\SCMS</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="Admin.Master">
+      <publishTime>03/14/2015 19:25:28</publishTime>
+    </File>
+    <File Include="AdminDashboad.aspx">
+      <publishTime>03/14/2015 19:41:40</publishTime>
+    </File>
+    <File Include="Agent.Master">
+      <publishTime>03/22/2015 20:16:39</publishTime>
+    </File>
+    <File Include="AgentDashboad.aspx">
+      <publishTime>03/08/2015 23:28:20</publishTime>
+    </File>
+    <File Include="bin/DAL.dll">
+      <publishTime>03/22/2015 22:48:49</publishTime>
+    </File>
+    <File Include="bin/DAL.pdb">
+      <publishTime>03/22/2015 22:48:49</publishTime>
+    </File>
+    <File Include="bin/DAO.dll">
+      <publishTime>03/31/2015 20:35:48</publishTime>
+    </File>
+    <File Include="bin/DAO.pdb">
+      <publishTime>03/31/2015 20:35:48</publishTime>
+    </File>
+    <File Include="bin/SCMSWeb.dll">
+      <publishTime>03/31/2015 20:35:49</publishTime>
+    </File>
+    <File Include="bin/SCMSWeb.pdb">
+      <publishTime>03/31/2015 20:35:48</publishTime>
+    </File>
+    <File Include="Login.aspx">
+      <publishTime>03/13/2015 18:19:20</publishTime>
+    </File>
+    <File Include="ManageCategory.aspx">
+      <publishTime>03/07/2015 16:33:33</publishTime>
+    </File>
+    <File Include="ManageIntractions.aspx">
+      <publishTime>03/05/2015 14:25:48</publishTime>
+    </File>
+    <File Include="ManageMainCategory.aspx">
+      <publishTime>03/08/2015 20:42:38</publishTime>
+    </File>
+    <File Include="ManageSubCategory.aspx">
+      <publishTime>03/08/2015 23:23:18</publishTime>
+    </File>
+    <File Include="ManageTasks.aspx">
+      <publishTime>03/22/2015 22:59:12</publishTime>
+    </File>
+    <File Include="ManageUser.aspx">
+      <publishTime>03/07/2015 23:16:12</publishTime>
+    </File>
+    <File Include="ManageUserGroups.aspx">
+      <publishTime>03/08/2015 15:26:16</publishTime>
+    </File>
+    <File Include="RegisterCustomers.aspx">
+      <publishTime>03/05/2015 11:43:44</publishTime>
+    </File>
+    <File Include="Style/css/bootstrap.css">
+      <publishTime>03/08/2015 23:39:12</publishTime>
+    </File>
+    <File Include="Style/css/bootstrap.min.css">
+      <publishTime>03/07/2015 15:56:48</publishTime>
+    </File>
+    <File Include="Style/css/five.css">
+      <publishTime>03/13/2015 20:42:02</publishTime>
+    </File>
+    <File Include="Style/css/scms.css">
+      <publishTime>02/28/2015 23:55:00</publishTime>
+    </File>
+    <File Include="Style/font-awesome-4.1.0/css/font-awesome.css">
+      <publishTime>02/28/2015 22:01:44</publishTime>
+    </File>
+    <File Include="Style/font-awesome-4.1.0/css/font-awesome.min.css">
+      <publishTime>02/28/2015 22:01:44</publishTime>
+    </File>
+    <File Include="Style/font-awesome-4.1.0/fonts/fontawesome-webfont.eot">
+      <publishTime>02/28/2015 22:01:44</publishTime>
+    </File>
+    <File Include="Style/font-awesome-4.1.0/fonts/fontawesome-webfont.svg">
+      <publishTime>02/28/2015 22:01:44</publishTime>
+    </File>
+    <File Include="Style/font-awesome-4.1.0/fonts/fontawesome-webfont.ttf">
+      <publishTime>02/28/2015 22:01:44</publishTime>
+    </File>
+    <File Include="Style/font-awesome-4.1.0/fonts/fontawesome-webfont.woff">
+      <publishTime>02/28/2015 22:01:44</publishTime>
+    </File>
+    <File Include="Style/font-awesome-4.1.0/fonts/FontAwesome.otf">
+      <publishTime>02/28/2015 22:01:44</publishTime>
+    </File>
+    <File Include="Style/font-awesome-4.1.0/less/bordered-pulled.less">
+      <publishTime>02/28/2015 22:01:44</publishTime>
+    </File>
+    <File Include="Style/font-awesome-4.1.0/less/core.less">
+      <publishTime>02/28/2015 22:01:44</publishTime>
+    </File>
+    <File Include="Style/font-awesome-4.1.0/less/fixed-width.less">
+      <publishTime>02/28/2015 22:01:44</publishTime>
+    </File>
+    <File Include="Style/font-awesome-4.1.0/less/font-awesome.less">
+      <publishTime>02/28/2015 22:01:44</publishTime>
+    </File>
+    <File Include="Style/font-awesome-4.1.0/less/icons.less">
+      <publishTime>02/28/2015 22:01:44</publishTime>
+    </File>
+    <File Include="Style/font-awesome-4.1.0/less/larger.less">
+      <publishTime>02/28/2015 22:01:44</publishTime>
+    </File>
+    <File Include="Style/font-awesome-4.1.0/less/list.less">
+      <publishTime>02/28/2015 22:01:44</publishTime>
+    </File>
+    <File Include="Style/font-awesome-4.1.0/less/mixins.less">
+      <publishTime>02/28/2015 22:01:44</publishTime>
+    </File>
+    <File Include="Style/font-awesome-4.1.0/less/path.less">
+      <publishTime>02/28/2015 22:01:44</publishTime>
+    </File>
+    <File Include="Style/font-awesome-4.1.0/less/rotated-flipped.less">
+      <publishTime>02/28/2015 22:01:44</publishTime>
+    </File>
+    <File Include="Style/font-awesome-4.1.0/less/spinning.less">
+      <publishTime>02/28/2015 22:01:44</publishTime>
+    </File>
+    <File Include="Style/font-awesome-4.1.0/less/stacked.less">
+      <publishTime>02/28/2015 22:01:45</publishTime>
+    </File>
+    <File Include="Style/font-awesome-4.1.0/less/variables.less">
+      <publishTime>02/28/2015 22:01:45</publishTime>
+    </File>
+    <File Include="Style/font-awesome-4.1.0/scss/font-awesome.scss">
+      <publishTime>02/28/2015 22:01:45</publishTime>
+    </File>
+    <File Include="Style/font-awesome-4.1.0/scss/_bordered-pulled.scss">
+      <publishTime>02/28/2015 22:01:45</publishTime>
+    </File>
+    <File Include="Style/font-awesome-4.1.0/scss/_core.scss">
+      <publishTime>02/28/2015 22:01:45</publishTime>
+    </File>
+    <File Include="Style/font-awesome-4.1.0/scss/_fixed-width.scss">
+      <publishTime>02/28/2015 22:01:45</publishTime>
+    </File>
+    <File Include="Style/font-awesome-4.1.0/scss/_icons.scss">
+      <publishTime>02/28/2015 22:01:45</publishTime>
+    </File>
+    <File Include="Style/font-awesome-4.1.0/scss/_larger.scss">
+      <publishTime>02/28/2015 22:01:45</publishTime>
+    </File>
+    <File Include="Style/font-awesome-4.1.0/scss/_list.scss">
+      <publishTime>02/28/2015 22:01:45</publishTime>
+    </File>
+    <File Include="Style/font-awesome-4.1.0/scss/_mixins.scss">
+      <publishTime>02/28/2015 22:01:45</publishTime>
+    </File>
+    <File Include="Style/font-awesome-4.1.0/scss/_path.scss">
+      <publishTime>02/28/2015 22:01:45</publishTime>
+    </File>
+    <File Include="Style/font-awesome-4.1.0/scss/_rotated-flipped.scss">
+      <publishTime>02/28/2015 22:01:45</publishTime>
+    </File>
+    <File Include="Style/font-awesome-4.1.0/scss/_spinning.scss">
+      <publishTime>02/28/2015 22:01:45</publishTime>
+    </File>
+    <File Include="Style/font-awesome-4.1.0/scss/_stacked.scss">
+      <publishTime>02/28/2015 22:01:45</publishTime>
+    </File>
+    <File Include="Style/font-awesome-4.1.0/scss/_variables.scss">
+      <publishTime>02/28/2015 22:01:45</publishTime>
+    </File>
+    <File Include="Style/fonts/glyphicons-halflings-regular.eot">
+      <publishTime>02/28/2015 22:01:45</publishTime>
+    </File>
+    <File Include="Style/fonts/glyphicons-halflings-regular.svg">
+      <publishTime>02/28/2015 22:01:45</publishTime>
+    </File>
+    <File Include="Style/fonts/glyphicons-halflings-regular.ttf">
+      <publishTime>02/28/2015 22:01:45</publishTime>
+    </File>
+    <File Include="Style/fonts/glyphicons-halflings-regular.woff">
+      <publishTime>02/28/2015 22:01:45</publishTime>
+    </File>
+    <File Include="Style/img/about/1.jpg">
+      <publishTime>02/28/2015 22:01:45</publishTime>
+    </File>
+    <File Include="Style/img/dashboadImage/category.png">
+      <publishTime>02/28/2015 23:13:21</publishTime>
+    </File>
+    <File Include="Style/img/dashboadImage/customer-service.png">
+      <publishTime>02/28/2015 23:13:21</publishTime>
+    </File>
+    <File Include="Style/img/dashboadImage/customer.png">
+      <publishTime>02/28/2015 23:13:21</publishTime>
+    </File>
+    <File Include="Style/img/dashboadImage/header1.jpg">
+      <publishTime>03/13/2015 19:32:52</publishTime>
+    </File>
+    <File Include="Style/img/dashboadImage/inbox.png">
+      <publishTime>02/28/2015 23:13:21</publishTime>
+    </File>
+    <File Include="Style/img/dashboadImage/index.jpg">
+      <publishTime>03/13/2015 19:32:14</publishTime>
+    </File>
+    <File Include="Style/img/dashboadImage/mainCategory.png">
+      <publishTime>02/28/2015 23:13:21</publishTime>
+    </File>
+    <File Include="Style/img/dashboadImage/subCategory.png">
+      <publishTime>02/28/2015 23:13:21</publishTime>
+    </File>
+    <File Include="Style/img/dashboadImage/user.png">
+      <publishTime>02/28/2015 23:13:21</publishTime>
+    </File>
+    <File Include="Style/img/dashboadImage/UserCreation.png">
+      <publishTime>02/28/2015 23:13:21</publishTime>
+    </File>
+    <File Include="Style/img/header-bg.jpg">
+      <publishTime>02/28/2015 22:01:45</publishTime>
+    </File>
+    <File Include="Style/img/portfolio/portfolio1-preview.png">
+      <publishTime>02/28/2015 22:01:45</publishTime>
+    </File>
+    <File Include="Style/img/portfolio/portfolio1.png">
+      <publishTime>02/28/2015 22:01:45</publishTime>
+    </File>
+    <File Include="Style/img/portfolio/portfolio2-preview.png">
+      <publishTime>02/28/2015 22:01:45</publishTime>
+    </File>
+    <File Include="Style/img/portfolio/portfolio2.png">
+      <publishTime>02/28/2015 22:01:45</publishTime>
+    </File>
+    <File Include="Style/img/portfolio/portfolio3-preview.png">
+      <publishTime>02/28/2015 22:01:45</publishTime>
+    </File>
+    <File Include="Style/img/portfolio/portfolio3.png">
+      <publishTime>02/28/2015 22:01:45</publishTime>
+    </File>
+    <File Include="Style/img/portfolio/portfolio4-preview.png">
+      <publishTime>02/28/2015 22:01:45</publishTime>
+    </File>
+    <File Include="Style/img/portfolio/portfolio4.png">
+      <publishTime>02/28/2015 22:01:45</publishTime>
+    </File>
+    <File Include="Style/img/portfolio/portfolio5-preview.png">
+      <publishTime>02/28/2015 22:01:45</publishTime>
+    </File>
+    <File Include="Style/img/portfolio/portfolio5.png">
+      <publishTime>02/28/2015 22:01:45</publishTime>
+    </File>
+    <File Include="Style/img/portfolio/portfolio6-preview.png">
+      <publishTime>02/28/2015 22:01:45</publishTime>
+    </File>
+    <File Include="Style/img/portfolio/portfolio6.png">
+      <publishTime>02/28/2015 22:01:45</publishTime>
+    </File>
+    <File Include="Style/img/team/1.jpg">
+      <publishTime>02/28/2015 22:01:45</publishTime>
+    </File>
+    <File Include="Style/img/team/2.jpg">
+      <publishTime>02/28/2015 22:01:45</publishTime>
+    </File>
+    <File Include="Style/img/team/3.jpg">
+      <publishTime>02/28/2015 22:01:45</publishTime>
+    </File>
+    <File Include="Style/img/team/4.jpg">
+      <publishTime>02/28/2015 22:01:45</publishTime>
+    </File>
+    <File Include="Style/js/bootstrap.js">
+      <publishTime>02/28/2015 22:01:44</publishTime>
+    </File>
+    <File Include="Style/js/bootstrap.min.js">
+      <publishTime>02/28/2015 22:01:44</publishTime>
+    </File>
+    <File Include="Style/js/cbpAnimatedHeader.js">
+      <publishTime>02/28/2015 22:01:44</publishTime>
+    </File>
+    <File Include="Style/js/cbpAnimatedHeader.min.js">
+      <publishTime>02/28/2015 22:01:44</publishTime>
+    </File>
+    <File Include="Style/js/classie.js">
+      <publishTime>02/28/2015 22:01:44</publishTime>
+    </File>
+    <File Include="Style/js/contact_me.js">
+      <publishTime>02/28/2015 22:01:44</publishTime>
+    </File>
+    <File Include="Style/js/five.js">
+      <publishTime>02/28/2015 22:01:44</publishTime>
+    </File>
+    <File Include="Style/js/jqBootstrapValidation.js">
+      <publishTime>02/28/2015 22:01:44</publishTime>
+    </File>
+    <File Include="Style/js/jquery.js">
+      <publishTime>02/28/2015 22:01:44</publishTime>
+    </File>
+    <File Include="Style/login-page/css/style.css">
+      <publishTime>03/01/2015 01:00:54</publishTime>
+    </File>
+    <File Include="Style/login-page/js/index.js">
+      <publishTime>03/01/2015 00:17:52</publishTime>
+    </File>
+    <File Include="Style/login-page/js/jquery.js">
+      <publishTime>03/01/2015 00:22:59</publishTime>
+    </File>
+    <File Include="testForm.aspx">
+      <publishTime>03/01/2015 14:05:53</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>03/26/2015 19:57:26</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

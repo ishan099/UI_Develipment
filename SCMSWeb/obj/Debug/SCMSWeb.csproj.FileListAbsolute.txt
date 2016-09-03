@@ -1,0 +1,19 @@
+D:\GitProjects\MyProjects\SCMS\SCMSWeb\bin\SCMSWeb.dll
+D:\GitProjects\MyProjects\SCMS\SCMSWeb\bin\SCMSWeb.pdb
+D:\GitProjects\MyProjects\SCMS\SCMSWeb\bin\DAO.dll
+D:\GitProjects\MyProjects\SCMS\SCMSWeb\bin\DAL.dll
+D:\GitProjects\MyProjects\SCMS\SCMSWeb\bin\DAO.pdb
+D:\GitProjects\MyProjects\SCMS\SCMSWeb\bin\DAL.pdb
+D:\GitProjects\MyProjects\SCMS\SCMSWeb\obj\Debug\SCMSWeb.csprojResolveAssemblyReference.cache
+D:\GitProjects\MyProjects\SCMS\SCMSWeb\obj\Debug\SCMSWeb.dll
+D:\GitProjects\MyProjects\SCMS\SCMSWeb\obj\Debug\SCMSWeb.pdb
+D:\MyStuff\ICBT\Final Project\Sampath\Project By sampath Niroshana\Source Code\SCMS\SCMSWeb\bin\SCMSWeb.dll
+D:\MyStuff\ICBT\Final Project\Sampath\Project By sampath Niroshana\Source Code\SCMS\SCMSWeb\bin\SCMSWeb.pdb
+D:\MyStuff\ICBT\Final Project\Sampath\Project By sampath Niroshana\Source Code\SCMS\SCMSWeb\bin\DAO.dll
+D:\MyStuff\ICBT\Final Project\Sampath\Project By sampath Niroshana\Source Code\SCMS\SCMSWeb\bin\DAL.dll
+D:\MyStuff\ICBT\Final Project\Sampath\Project By sampath Niroshana\Source Code\SCMS\SCMSWeb\bin\DAO.pdb
+D:\MyStuff\ICBT\Final Project\Sampath\Project By sampath Niroshana\Source Code\SCMS\SCMSWeb\bin\DAL.pdb
+D:\MyStuff\ICBT\Final Project\Sampath\Project By sampath Niroshana\Source Code\SCMS\SCMSWeb\obj\Debug\SCMSWeb.csprojResolveAssemblyReference.cache
+D:\MyStuff\ICBT\Final Project\Sampath\Project By sampath Niroshana\Source Code\SCMS\SCMSWeb\obj\Debug\SCMSWeb.dll
+D:\MyStuff\ICBT\Final Project\Sampath\Project By sampath Niroshana\Source Code\SCMS\SCMSWeb\obj\Debug\SCMSWeb.pdb
+D:\MyStuff\ICBT\Final Project\Sampath\Project By sampath Niroshana\Source Code\SCMS\SCMSWeb\bin\SCMSWeb.dll.config

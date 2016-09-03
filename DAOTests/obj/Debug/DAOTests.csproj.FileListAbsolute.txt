@@ -1,0 +1,9 @@
+D:\GitProjects\MyProjects\SCMS\DAOTests\bin\Debug\DAOTests.dll
+D:\GitProjects\MyProjects\SCMS\DAOTests\bin\Debug\DAOTests.pdb
+D:\GitProjects\MyProjects\SCMS\DAOTests\bin\Debug\DAO.dll
+D:\GitProjects\MyProjects\SCMS\DAOTests\bin\Debug\DAL.dll
+D:\GitProjects\MyProjects\SCMS\DAOTests\bin\Debug\DAO.pdb
+D:\GitProjects\MyProjects\SCMS\DAOTests\bin\Debug\DAL.pdb
+D:\GitProjects\MyProjects\SCMS\DAOTests\obj\Debug\DAOTests.csprojResolveAssemblyReference.cache
+D:\GitProjects\MyProjects\SCMS\DAOTests\obj\Debug\DAOTests.dll
+D:\GitProjects\MyProjects\SCMS\DAOTests\obj\Debug\DAOTests.pdb
