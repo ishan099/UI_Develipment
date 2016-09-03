@@ -18,3 +18,13 @@ C:\Users\ishan\Dropbox\Final Project\Codes\UI\SCMS\SCMSWeb\bin\DAL.pdb
 C:\Users\ishan\Dropbox\Final Project\Codes\UI\SCMS\SCMSWeb\obj\Debug\SOPSWeb.csprojResolveAssemblyReference.cache
 C:\Users\ishan\Dropbox\Final Project\Codes\UI\SCMS\SCMSWeb\obj\Debug\SCMSWeb.dll
 C:\Users\ishan\Dropbox\Final Project\Codes\UI\SCMS\SCMSWeb\obj\Debug\SCMSWeb.pdb
+C:\Users\ishan\Dropbox\Final Project\Codes\UI\UI_Develipment\SCMSWeb\bin\SCMSWeb.dll.config
+C:\Users\ishan\Dropbox\Final Project\Codes\UI\UI_Develipment\SCMSWeb\bin\SCMSWeb.dll
+C:\Users\ishan\Dropbox\Final Project\Codes\UI\UI_Develipment\SCMSWeb\bin\SCMSWeb.pdb
+C:\Users\ishan\Dropbox\Final Project\Codes\UI\UI_Develipment\SCMSWeb\bin\DAO.dll
+C:\Users\ishan\Dropbox\Final Project\Codes\UI\UI_Develipment\SCMSWeb\bin\DAL.dll
+C:\Users\ishan\Dropbox\Final Project\Codes\UI\UI_Develipment\SCMSWeb\bin\DAO.pdb
+C:\Users\ishan\Dropbox\Final Project\Codes\UI\UI_Develipment\SCMSWeb\bin\DAL.pdb
+C:\Users\ishan\Dropbox\Final Project\Codes\UI\UI_Develipment\SCMSWeb\obj\Debug\SOPSWeb.csprojResolveAssemblyReference.cache
+C:\Users\ishan\Dropbox\Final Project\Codes\UI\UI_Develipment\SCMSWeb\obj\Debug\SCMSWeb.dll
+C:\Users\ishan\Dropbox\Final Project\Codes\UI\UI_Develipment\SCMSWeb\obj\Debug\SCMSWeb.pdb

@@ -4,26 +4,26 @@
 
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
-<meta charset="utf-8">
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<meta name="description" content="">
-<meta name="author" content="">
-<title>SOPS</title>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <title>SOPS</title>
 
-<!-- Bootstrap Core CSS -->
-<link href="Style/css/bootstrap.min.css" rel="stylesheet">
-<link href="Style/css/scms.css" rel="stylesheet" />
-<!-- Custom CSS -->
-<link href="Style/css/five.css" rel="stylesheet">
+    <!-- Bootstrap Core CSS -->
+    <link href="Style/css/bootstrap.min.css" rel="stylesheet">
+    <link href="Style/css/scms.css" rel="stylesheet" />
+    <!-- Custom CSS -->
+    <link href="Style/css/five.css" rel="stylesheet">
 
-<!-- Custom Fonts -->
-<link href="Style/font-awesome-4.1.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <!-- Custom Fonts -->
+    <link href="Style/font-awesome-4.1.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
 
 
-<!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
-<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
-<!--[if lt IE 9]>
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
         <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
         <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
 
@@ -35,251 +35,60 @@
 
 
 <body>
+
+
+
+    <!-- Navigation -->
+    <nav class="navbar navbar-default navbar-fixed-top">
+        <div class="header-wrapper">
+            <div class="container">
+                <div class="pull-left">
+                    <h2>SMART ORDER PLACING SYSTEM
+                    </h2>
+                </div>
+                <div class="pull-right">
+                    <a href="Login.aspx" class="login-lable">Log Out  </a>
+                    <a href="AdminDashboad.aspx" class="login-lable">Home  </a>
+                </div>
+            </div>
+        </div>
+        <!-- /.container-fluid -->
+    </nav>
+
+
+
+
+
+
+
+
+    <!-- form server controls -->
+    <form id="form2" runat="server">
+        <div class="container">
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+    </form>
+
+
+
+
+    <footer>
+        <div class="container">
+            <div class="row">
+            </div>
+        </div>
+    </footer>
+
    
 
-      
-<!-- Navigation -->
-<nav class="navbar navbar-default navbar-fixed-top">
-  <div class="container"> 
-     <a href="Login.aspx" class="login-lable"> Log Out  </a>
-       <a href="AdminDashboad.aspx" class="login-lable"> Home  </a>
-
-  </div>
-  <!-- /.container-fluid --> 
-</nav>
-
-
-
   
-    <div class="row">
-      <div class="col-lg-12 text-center"   >
-         
-        <h2 class="section-heading" style="background-color: #0000FF; height: 121px;"  >SMART ORDER PLACING SYSTEM</h2>
-         <div class="line"></div>
-          </div>
-        </div>
-      
-    
+    <!-- jQuery -->
+    <script src="Style/js/jquery.js"></script>
 
-     
-    
-
-
-
-<!-- form server controls -->
-  <form id="form2" runat="server">
-    <div class="content">
-        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
-        
-        </asp:ContentPlaceHolder>
-    </div>
- </form>
-
-
-
-
-<footer>
-  <div class="container">
-    <div class="row">
-
-    </div>
-  </div>
-</footer>
-
-<!-- Portfolio Modals --> 
-<!-- Use the modals below to showcase details about your portfolio projects! --> 
-
-<!-- Portfolio Modal 1 -->
-<div class="portfolio-modal modal fade" id="portfolioModal1" tabindex="-1" role="dialog" aria-hidden="true">
-  <div class="modal-content">
-    <div class="close-modal" data-dismiss="modal">
-      <div class="lr">
-        <div class="rl"> </div>
-      </div>
-    </div>
-    <div class="container">
-      <div class="row">
-        <div class="col-lg-8 col-lg-offset-2">
-          <div class="modal-body"> 
-            <!-- Project Details Go Here -->
-            <h2>Project Name</h2>
-            <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
-            <img class="img-responsive img-centered" src="Style/img/portfolio/portfolio1-preview.png" alt="">
-            <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!</p>
-            <p><strong>His at quem vituperata, an nam laboramus interesset.</strong> Nostro tractatos has et. Est nulla ceteros ei, laoreet alienum cum ei. Mei odio vulputate idsit ex enim sonet legere. Ignota audiam vel et, vix dolore suscipiantur ne sea soleat iisque eu.</p>
-            <ul class="list-inline">
-              <li>Date: December 2014</li>
-              <li>Client: Ignota audiam vel</li>
-              <li>Category: Web Design</li>
-            </ul>
-            <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close Project</button>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
-
-<!-- Portfolio Modal 2 -->
-<div class="portfolio-modal modal fade" id="portfolioModal2" tabindex="-1" role="dialog" aria-hidden="true">
-  <div class="modal-content">
-    <div class="close-modal" data-dismiss="modal">
-      <div class="lr">
-        <div class="rl"> </div>
-      </div>
-    </div>
-    <div class="container">
-      <div class="row">
-        <div class="col-lg-8 col-lg-offset-2">
-          <div class="modal-body">
-            <h2>Project Heading</h2>
-            <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
-            <img class="img-responsive img-centered" src="img/portfolio/portfolio2-preview.png" alt="">
-            <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!</p>
-            <p><strong>His at quem vituperata, an nam laboramus interesset.</strong> Nostro tractatos has et. Est nulla ceteros ei, laoreet alienum cum ei. Mei odio vulputate idsit ex enim sonet legere. Ignota audiam vel et, vix dolore suscipiantur ne sea soleat iisque eu.</p>
-            <ul class="list-inline">
-              <li>Date: December 2014</li>
-              <li>Client: Ignota audiam vel</li>
-              <li>Category: Web Design</li>
-            </ul>
-            <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close Project</button>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
-
-<!-- Portfolio Modal 3 -->
-<div class="portfolio-modal modal fade" id="portfolioModal3" tabindex="-1" role="dialog" aria-hidden="true">
-  <div class="modal-content">
-    <div class="close-modal" data-dismiss="modal">
-      <div class="lr">
-        <div class="rl"> </div>
-      </div>
-    </div>
-    <div class="container">
-      <div class="row">
-        <div class="col-lg-8 col-lg-offset-2">
-          <div class="modal-body"> 
-            <!-- Project Details Go Here -->
-            <h2>Project Name</h2>
-            <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
-            <img class="img-responsive img-centered" src="img/portfolio/portfolio3-preview.png" alt="">
-            <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!</p>
-            <p><strong>His at quem vituperata, an nam laboramus interesset.</strong> Nostro tractatos has et. Est nulla ceteros ei, laoreet alienum cum ei. Mei odio vulputate idsit ex enim sonet legere. Ignota audiam vel et, vix dolore suscipiantur ne sea soleat iisque eu.</p>
-            <ul class="list-inline">
-              <li>Date: December 2014</li>
-              <li>Client: Ignota audiam vel</li>
-              <li>Category: Web Design</li>
-            </ul>
-            <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close Project</button>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
-
-<!-- Portfolio Modal 4 -->
-<div class="portfolio-modal modal fade" id="portfolioModal4" tabindex="-1" role="dialog" aria-hidden="true">
-  <div class="modal-content">
-    <div class="close-modal" data-dismiss="modal">
-      <div class="lr">
-        <div class="rl"> </div>
-      </div>
-    </div>
-    <div class="container">
-      <div class="row">
-        <div class="col-lg-8 col-lg-offset-2">
-          <div class="modal-body"> 
-            <!-- Project Details Go Here -->
-            <h2>Project Name</h2>
-            <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
-            <img class="img-responsive img-centered" src="img/portfolio/portfolio4-preview.png" alt="">
-            <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!</p>
-            <p><strong>His at quem vituperata, an nam laboramus interesset.</strong> Nostro tractatos has et. Est nulla ceteros ei, laoreet alienum cum ei. Mei odio vulputate idsit ex enim sonet legere. Ignota audiam vel et, vix dolore suscipiantur ne sea soleat iisque eu.</p>
-            <ul class="list-inline">
-              <li>Date: December 2014</li>
-              <li>Client: Ignota audiam vel</li>
-              <li>Category: Web Design</li>
-            </ul>
-            <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close Project</button>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
-
-<!-- Portfolio Modal 5 -->
-<div class="portfolio-modal modal fade" id="portfolioModal5" tabindex="-1" role="dialog" aria-hidden="true">
-  <div class="modal-content">
-    <div class="close-modal" data-dismiss="modal">
-      <div class="lr">
-        <div class="rl"> </div>
-      </div>
-    </div>
-    <div class="container">
-      <div class="row">
-        <div class="col-lg-8 col-lg-offset-2">
-          <div class="modal-body"> 
-            <!-- Project Details Go Here -->
-            <h2>Project Name</h2>
-            <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
-            <img class="img-responsive img-centered" src="img/portfolio/portfolio5-preview.png" alt="">
-            <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!</p>
-            <p><strong>His at quem vituperata, an nam laboramus interesset.</strong> Nostro tractatos has et. Est nulla ceteros ei, laoreet alienum cum ei. Mei odio vulputate idsit ex enim sonet legere. Ignota audiam vel et, vix dolore suscipiantur ne sea soleat iisque eu.</p>
-            <ul class="list-inline">
-              <li>Date: December 2014</li>
-              <li>Client: Ignota audiam vel</li>
-              <li>Category: Web Design</li>
-            </ul>
-            <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close Project</button>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
-
-<!-- Portfolio Modal 6 -->
-<div class="portfolio-modal modal fade" id="portfolioModal6" tabindex="-1" role="dialog" aria-hidden="true">
-  <div class="modal-content">
-    <div class="close-modal" data-dismiss="modal">
-      <div class="lr">
-        <div class="rl"> </div>
-      </div>
-    </div>
-    <div class="container">
-      <div class="row">
-        <div class="col-lg-8 col-lg-offset-2">
-          <div class="modal-body"> 
-            <!-- Project Details Go Here -->
-            <h2>Project Name</h2>
-            <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
-            <img class="img-responsive img-centered" src="img/portfolio/portfolio6-preview.png" alt="">
-            <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!</p>
-            <p><strong>His at quem vituperata, an nam laboramus interesset.</strong> Nostro tractatos has et. Est nulla ceteros ei, laoreet alienum cum ei. Mei odio vulputate idsit ex enim sonet legere. Ignota audiam vel et, vix dolore suscipiantur ne sea soleat iisque eu.</p>
-            <ul class="list-inline">
-              <li>Date: December 2014</li>
-              <li>Client: Ignota audiam vel</li>
-              <li>Category: Web Design</li>
-            </ul>
-            <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close Project</button>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
-
-<!-- jQuery --> 
-<script src="Style/js/jquery.js"></script> 
-
-<!-- Bootstrap Core JavaScript --> 
-<script src="Style/js/bootstrap.min.js"></script> 
-<script src="Style/js/five.js"></script>
+    <!-- Bootstrap Core JavaScript -->
+    <script src="Style/js/bootstrap.min.js"></script>
+    <script src="Style/js/five.js"></script>
 </body>
 
 </html>
