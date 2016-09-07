@@ -15,9 +15,7 @@ namespace SCMSWeb
 
         Tasks objTask;
         public static  String username;
-        //Category catObj = new Category();
-        //UserInfo objUser = new UserInfo();
-       // Intraction objIntraction = new Intraction();
+   
         
         protected void Page_Load(object sender, EventArgs e)
         {
